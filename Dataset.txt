@@ -1,0 +1,7 @@
+To download the dataset use the following link
+
+the main JSON file
+https://drive.google.com/open?id=1fgNx5HHVpjShqo97i1AY6-A5YK2rEiJa
+
+the flatten JSON to CSV file
+https://drive.google.com/open?id=1-wlqS-Ljbh89oSEQFESm-Gz2Qa6qXvm5
